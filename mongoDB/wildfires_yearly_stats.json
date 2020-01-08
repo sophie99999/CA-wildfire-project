@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5df710dfd3b1600bd87533d2"},"Year":"2019","Acres Burned":"253,321","Fire Incidents":"6,872","Fatalities":"3","Structures Destroyed":"732"}
+{"_id":{"$oid":"5df710eed3b1600bd87533d3"},"Year":"2018","Acres Burned":"1,963,101","Fire Incidents":"7,639","Fatalities":"100","Structures Destroyed":"24,226"}
+{"_id":{"$oid":"5df710fdd3b1600bd87533d4"},"Year":"2017","Acres Burned":"1,548,429","Fire Incidents":"9,270","Fatalities":"44","Structures Destroyed":"11,643"}
+{"_id":{"$oid":"5df71110d3b1600bd87533d5"},"Year":"2016","Acres Burned":"669,534","Fire Incidents":"6,959","Fatalities":"0","Structures Destroyed":"1,274"}
+{"_id":{"$oid":"5df71124d3b1600bd87533d6"},"Year":"2015","Acres Burned":"880,899","Fire Incidents":"8,238","Fatalities":"7","Structures Destroyed":"3,159"}
+{"_id":{"$oid":"5df71135d3b1600bd87533d7"},"Year":"2014","Acres Burned":"620,000","Fire Incidents":"7,800","Fatalities":"0","Structures Destroyed":"568"}
